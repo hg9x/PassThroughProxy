@@ -2,7 +2,7 @@
 
 > Forward proxy server.
 
-[![Build status](https://ci.appveyor.com/api/projects/status/c6gnmw6xkt6j8e2s?svg=true)](https://ci.appveyor.com/project/AhmedAgabani/passthroughproxy)
+[![Build status](https://ci.appveyor.com/api/projects/status/c6gnmw6xkt6j8e2s?svg=true)](https://ci.appveyor.com/project/hg9x39695/passthroughproxy)
 
 ## Usage
 
